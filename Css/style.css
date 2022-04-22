@@ -227,7 +227,7 @@ color: var(--color);
   }
   .skill-mf .progress {
     background-color: #cde1f8;
-    margin: 1rem 0 1.2rem 0;
+    margin: 0rem 0 0.5rem 0;
     border-radius: 0;
     height: 0.9rem;
   }
@@ -268,9 +268,6 @@ color: var(--color);
     border-radius: 8rem;
     margin-bottom: 3rem;
     text-align: center;
-  }
-  .service-box:hover{
-    zoom: 103%; 
   }
  
   .service-box .service-ico {
